@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-paste",
+  "description": "Paste clipboard images into Claude Code with a single command",
+  "owner": {
+    "name": "kkb-98"
+  },
+  "plugins": [
+    {
+      "name": "claude-paste",
+      "description": "Paste clipboard images into Claude Code with a single command. Works on Windows, macOS, and Linux.",
+      "version": "0.1.0",
+      "author": {
+        "name": "kkb-98"
+      },
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://github.com/kkb-98/claude-paste"
+    }
+  ]
+}
