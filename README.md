@@ -1,4 +1,4 @@
-# claude-paste
+# claude-paste(testing..)
 
 Paste clipboard images into Claude Code with a single command.
 
