@@ -2,6 +2,7 @@
   "name": "claude-paste",
   "description": "Paste clipboard images into Claude Code with a single command",
   "version": "0.1.0",
+  "category": "productivity",
   "author": {
     "name": "kkb-98"
   },
