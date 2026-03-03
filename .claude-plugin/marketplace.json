@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-paste",
+  "name": "claude-paste-marketplace",
   "description": "Paste clipboard images into Claude Code with a single command",
   "owner": {
     "name": "kkb-98"
