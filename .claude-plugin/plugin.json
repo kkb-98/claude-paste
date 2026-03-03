@@ -6,9 +6,7 @@
   "author": {
     "name": "kkb-98"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kkb-98/claude-paste"
-  },
+  "homepage": "https://github.com/kkb-98/claude-paste",
+  "repository": "https://github.com/kkb-98/claude-paste",
   "license": "MIT"
 }
