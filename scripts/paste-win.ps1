@@ -7,7 +7,7 @@ if (-not $img) {
     exit 1
 }
 
-$dir = Join-Path $PWD ".claude" "screenshots"
+$dir = Join-Path (Join-Path $PWD ".claude") "screenshots"
 if (-not (Test-Path $dir)) {
     New-Item -ItemType Directory -Path $dir -Force | Out-Null
 }
